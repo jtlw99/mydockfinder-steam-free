@@ -1,3 +1,4 @@
+# ⛔ From May 28 this repository will become read-only. Please support MDF Devs if you can afford!
 # MyDockFinder Steam Free
 - :heavy_check_mark: **Updated 1.9.7.5 👍**, Thanks to [**TheConsciousCat**](https://www.youtube.com/channel/UCKhyCmsVRFywD1W0qa9pY2A)
 
